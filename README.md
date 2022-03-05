@@ -30,3 +30,24 @@
 <img width="411" alt="ChallengeMission2" src="https://user-images.githubusercontent.com/44321712/154959120-575ae621-0999-439b-bd82-9116e4b14ab4.png">
 
 <hr />
+
+## 3주차 미션
+
+### Basic
+<br>
+1번
+<br>
+<img width="500" alt="BasicMission1" src="https://user-images.githubusercontent.com/44321712/156889385-e61e2ebb-0fed-4dc8-af0d-ba68088d3396.PNG">
+<br>
+2번
+<br>
+<img width="700" alt="BasicMission2" src="https://user-images.githubusercontent.com/44321712/156889429-e031556a-ca0a-4b1e-b764-ecbdc48b9e7c.PNG">
+<br>
+<br>
+
+### Challenge
+
+<img width="500" alt="ChallengeMission1" src="https://user-images.githubusercontent.com/44321712/156889484-2f4340fc-3dcb-4b64-b51a-cbacc476a3ba.PNG">
+<br>
+<br>
+<hr />
