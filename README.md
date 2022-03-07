@@ -2,17 +2,8 @@
 
 >PROJECT LION [채용 연계] The Origin: React 과제페이지입니다.
 
+<br>
 ## 1주차 미션
-
-### Basic
-<br>
-<br>
-
-### Chanllenge
-
-<hr />
-
-## 2주차 미션
 
 ### Basic
 <br>
@@ -31,7 +22,7 @@
 
 <hr />
 
-## 3주차 미션
+## 2주차 미션
 
 ### Basic
 <br>
